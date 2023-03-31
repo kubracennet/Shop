@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ProductCard: View {
+    @EnvironmentObject var cartManager: CartManager
     var product: Product
     
     var body: some View {
