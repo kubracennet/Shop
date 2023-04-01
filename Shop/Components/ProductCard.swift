@@ -35,7 +35,7 @@ struct ProductCard: View {
         .shadow(radius: 3)
             
             Button {
-                print("Added to cart!")
+                cartManager.addToCart(product: product)
             } label: {
                 Image(systemName: "plus")
                     .padding(10)

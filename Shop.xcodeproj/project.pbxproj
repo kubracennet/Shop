@@ -15,6 +15,7 @@
 		F6391A5F29D718CC00BCC8C3 /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6391A5E29D718CC00BCC8C3 /* ProductCard.swift */; };
 		F647925E29D7835300B7A9D6 /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F647925D29D7835300B7A9D6 /* CartManager.swift */; };
 		F67E532829D77C090032CF9C /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F67E532729D77C090032CF9C /* CartView.swift */; };
+		F6C7E6CA29D857410095474E /* ProductRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C7E6C929D857410095474E /* ProductRow.swift */; };
 		F6F6C1DB29D76CC400D45609 /* CartButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F6C1DA29D76CC400D45609 /* CartButton.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		F6391A5E29D718CC00BCC8C3 /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
 		F647925D29D7835300B7A9D6 /* CartManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartManager.swift; sourceTree = "<group>"; };
 		F67E532729D77C090032CF9C /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		F6C7E6C929D857410095474E /* ProductRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRow.swift; sourceTree = "<group>"; };
 		F6F6C1DA29D76CC400D45609 /* CartButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +95,7 @@
 			children = (
 				F6391A5E29D718CC00BCC8C3 /* ProductCard.swift */,
 				F6F6C1DA29D76CC400D45609 /* CartButton.swift */,
+				F6C7E6C929D857410095474E /* ProductRow.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				F6391A4F29D705BD00BCC8C3 /* ContentView.swift in Sources */,
 				F647925E29D7835300B7A9D6 /* CartManager.swift in Sources */,
 				F6391A4D29D705BD00BCC8C3 /* ShopApp.swift in Sources */,
+				F6C7E6CA29D857410095474E /* ProductRow.swift in Sources */,
 				F6391A5C29D70FD800BCC8C3 /* Product.swift in Sources */,
 				F6391A5F29D718CC00BCC8C3 /* ProductCard.swift in Sources */,
 				F6F6C1DB29D76CC400D45609 /* CartButton.swift in Sources */,
