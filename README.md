@@ -1,4 +1,3 @@
-# Shop
 SwiftUI
 
 I created a shop app with SwiftUI.
